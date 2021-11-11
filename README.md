@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mjoyce91" alt="mjoyce91" /></a> </p>
 
-- 🔭 I’m currently working on [TalentMAP](https://github.com/MetaPhase-Consulting/State-TalentMAP)
+- 🔭 I’m currently working on [TalentMAP](https://github.com/MetaPhase-Consulting/State-TalentMAP) / [TalentMAP API](https://github.com/MetaPhase-Consulting/State-TalentMAP-API)
 
 - 👨‍💻 Learn more about me at [https://mikejoycedev.com](https://mikejoycedev.com)
 
